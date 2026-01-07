@@ -14,6 +14,17 @@ step 3:
 run the program and in a terminal, you should be given results, if you inputs worked as expected, with the code you created... I will use the current code with examples and a
 description below..
 _______________________________________________________
+******** 
+make sure whateve your "def" is called...
+you CHANGE that information in the line of code..
+EXAMPLE:
+(new "def")
+def findFirstOccurrence(nums, target):
+
+(change this line, prior to running code):
+result = findFirstOccurrence(*inputs)
+*******************************************
+_______________________________________________________
 _______________________________________________________
 
 step 1, example:
